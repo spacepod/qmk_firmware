@@ -18,6 +18,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #pragma once
 
 #define USE_I2C
+#define F_SCL 400000L
+
 #define MASTER_LEFT
 
 #define FORCE_NKRO
